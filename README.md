@@ -1,17 +1,20 @@
 # Projeto-final / Adicionador de jogos
  
-Como executar
-Backend
+## Como executar
+### Backend
 
-cd .\jogos-backend-main\
+```cd .\jogos-backend-main\
 
 npm i
 
-npm start
-FrontEnd
+npm start 
+```
 
-cd .\jogos-frontend-main\
+### FrontEnd
+
+```cd .\jogos-frontend-main\
 
 npm i
 
 npm run dev
+```
